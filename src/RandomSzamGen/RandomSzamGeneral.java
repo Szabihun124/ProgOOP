@@ -39,6 +39,7 @@ public class RandomSzamGeneral {
             if (elem % 2 == 0 && elem > max)
                 max = elem;
         }
+
         return max;
     }
 
